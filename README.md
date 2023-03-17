@@ -47,7 +47,7 @@ This project was credited by Augustine Mwangi Kariuki.
 
 
 LICENSE
-Tis project is licensed under the 
+Tis project is licensed under the GNU GENERAL PUBLIC LICENSE
 
 
 
